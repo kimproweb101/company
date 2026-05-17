@@ -1,0 +1,1 @@
+import{_ as c,c as n,b as t,o,f as _}from"./CLdxtSQw.js";const r={};function s(a,f){const e=_;return o(),n("div",null,[t(e,{src:"/future-img-6.jpg"})])}const u=c(r,[["render",s]]);export{u as default};
