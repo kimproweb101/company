@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as n,z as o}from"./DDOfYTOi.js";const c={},_={class:"pt-11.5 md:pt-16.5 lg:pt-22.5"};function a(e,r){return s(),n("section",_,[o(e.$slots,"default")])}const p=Object.assign(t(c,[["render",a]]),{__name:"BasePt"});export{p as _};
