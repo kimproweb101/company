@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as o,y as t}from"./Dfel3Bnt.js";const c={},_={class:"px-7.5 md:px-11.75 lg:px-18.5 xl:px-40"};function a(e,r){return n(),o("section",_,[t(e.$slots,"default")])}const p=Object.assign(s(c,[["render",a]]),{__name:"BasePx"});export{p as _};
