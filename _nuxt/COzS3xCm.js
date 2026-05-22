@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as n,y as o}from"./BnFZc5ed.js";const c={},_={class:"pt-11.5 md:pt-16.5 lg:pt-22.5 px-7.5 md:px-11.75 lg:px-18.5 xl:px-40"};function a(e,r){return s(),n("section",_,[o(e.$slots,"default")])}const l=Object.assign(t(c,[["render",a]]),{__name:"BasePtx"});export{l as _};
