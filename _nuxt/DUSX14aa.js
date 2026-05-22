@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as o,y as t}from"./D57vESQN.js";const c={},_={class:"p-7.5 md:p-11.75 lg:p-18.5 xl:p-40"};function a(e,r){return n(),o("section",_,[t(e.$slots,"default")])}const p=Object.assign(s(c,[["render",a]]),{__name:"BasePa"});export{p as _};
